@@ -1,8 +1,8 @@
 # 💫 About Me:
-## 👋 Hi there! I'm [Your Name] — Aspiring Full Stack Developer
+## 👋 Hi there! I'm Fauzan — Aspiring Full Stack Developer
 🚀 I'm currently diving deep into web development (frontend & backend) while also exploring data science.
 
-🎓 Background: I'm a pharmacy graduate currently taking a professional apothecary program, and I've also founded a small business in chemical distribution.
+🎓 Background: I am currently pursuing studies in Computer Science and Business, and I've also founded a small business in chemical distribution.
 
 💡 I love building solutions that combine health, technology, and education.
 
