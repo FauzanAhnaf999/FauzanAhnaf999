@@ -1,43 +1,77 @@
-# 💫 About Me:
-## 👋 Hi there! I'm Fauzan — Aspiring Full Stack Developer
-🚀 I'm currently diving deep into web development (frontend & backend) while also exploring data science.
+# Hi there! 👋 I'm M. Fauzan Ahnaf Athallah
+## Self-Taught Programmer | Software Engineering & Web Development Enthusiast
 
-🎓 Background: I am currently pursuing studies in Computer Science and Business, and I've also founded a small business in chemical distribution.
-
-💡 I love building solutions that combine health, technology, and education.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zandev.code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fauzanahnaf/) 
-
-# 💻 Tech Stack:
-### Frontend : ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-### Backend : ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-### Database : ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-### Data : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-# 📚 Currently learning:
-
-- Full-stack web development with Node.js Express.js
-- Software engineering best practices
-- Building web dashboards & APIs for healthcare solutions
-
-
-# 🌱 Projects:
-- Apotek Dau Sehat Landing Page (apotekdausehat.my.id) and Currently working for the backend system
-- 2 Ongoing projects similiar with the first one
-- Personal coding + data journey documentation
-- Business tools for UD. Tiga Jaya Berkah 
-
-# 📄 Certifications:
-- ✅ Data Analyst Training Program by DTS ProA (Certified)
-- ✅ Python for Data Analysis
-- ✅ BigQuery & SQL for Data Exploration
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-## 💬 Fun fact: I'm also a casual gamer! I play Genshin Impact, Honkai: Star Rail, and Wuthering Waves to unwind.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzanahnaf/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfauzan2326@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-fauzanahnafdev.tech-green?style=for-the-badge&logo=react)](https://fauzanahnafdev.tech) 
 
 ---
+
+### 📍 East Java, Indonesia
+
+## 💡 About My Journey
+
+I'm Fauzan, a passionate self-taught programmer who loves to code and solve complex problems. Initially interested in data, my core focus has successfully shifted to **Web Development** and **Software Engineering**. I have practical experience covering the full development lifecycle, from concept to deployment, and I strive to build efficient, scalable, and user-friendly applications.
+
+My experience ranges from active Software Engineer roles in multiple companies to deep freelance projects (such as a secure village governance system and e-commerce platforms for pharmacies).
+
+---
+
+## 💻 Tech Stack & Key Skills
+
+### Frontend
+| Technology | |
+| :--- | :--- |
+| **React** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Next.js** | ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **Tailwind CSS** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
+### Backend & Database
+| Technology |  |
+| :--- | :--- |
+| **NestJS** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) |
+| **Node.js** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Supabase** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+### Other Skills & Tools
+| Skill/Tool | Representation |
+| :--- | :--- |
+| **WordPress** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| **Prisma ORM** | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
+| **Git/GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| **Payment Gateways** | 💳 Payment Gateways |
+| **Livewire** | ⚡ Livewire |
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer Roles (Active)
+I am currently holding several active roles focusing on software development and technical implementation:
+
+* **Software Engineer** at Aksara Virtual Agency (October 2025 - Present)
+* **Software Engineer** at BMT MEDIA MALANG (June 2025 - Present)
+* **Freelance Software and Web Developer** at FAD Teknologi (February 2024 - Present)
+
+### Freelance Fullstack Web Developer Project Highlights (FAD Teknologi)
+
+| Project | Key Technologies & Achievements |
+| :--- | :--- |
+| **Law Firm Official Website** | Built from scratch using **React, Vite, Tailwind CSS**. Implemented **i18next** for multilingual support. Fully responsible for architecture and UI/UX planning. |
+| **Apotek Dau Sehat Web Platform** | **Supabase** integration for authentication and database. Utilized **Zustand/TypeScript** for state management and built dynamic product listings secured by **RLS-secured Supabase policies**. |
+| **Village Governance System** | Includes Digital Attendance System with **Python/OpenCV** (facial recognition). Implemented a hybrid DB architecture (Supabase + self-hosted PostgreSQL) for sensitive data security. |
+| **Apotek Fensa Farma - Landing Page** | Developed a single-page application focused on accessibility and performance using **React.js, Tailwind CSS, and Vite**. |
+
+## 🎓 Education & Certifications
+
+### Education
+* **Universitas Terbuka:** Bachelor of Technology - BTech, Informatics (March 2024 - April 2028)
+* **BINUS University:** Computer Science (September 2022 - July 2026)
+
+### Certifications
+* Google Data Analysis Certificate
+* Google Data Analytics Specialization
+* Data Processing (Professional Academy)
