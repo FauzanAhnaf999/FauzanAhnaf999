@@ -7,7 +7,7 @@
 
 ---
 
-### 📍 Based in Indonesia | Open to Remote Roles across Southeast Asia and Australia
+### 📍 Based in Indonesia | Open to Remote Roles across Worldwide
 📱 +62 851 5693 5868
 
 ## 💡 About My Journey
